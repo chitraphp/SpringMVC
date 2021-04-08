@@ -1,0 +1,5 @@
+package com.veracity;
+
+public class RegisterServlet {
+
+}

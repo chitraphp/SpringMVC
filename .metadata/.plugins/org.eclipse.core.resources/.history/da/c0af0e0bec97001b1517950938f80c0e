@@ -1,0 +1,12 @@
+package us.veracity;
+
+import org.springframework.stereotype.Controller;
+
+public class HomeController {
+	
+	@Controller
+	public String test() {
+		return "message";
+	}
+
+}

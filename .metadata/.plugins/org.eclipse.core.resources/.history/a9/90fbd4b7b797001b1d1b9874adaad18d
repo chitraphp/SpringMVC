@@ -1,0 +1,6 @@
+package com.nt.cntrl;
+
+@Controller
+public class HomeController {
+
+}

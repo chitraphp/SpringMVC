@@ -1,0 +1,5 @@
+package com.veracity.controllers;
+
+public class DeleteServlet {
+
+}
